@@ -1,0 +1,3 @@
+[submodule "sacarik"]
+	path = sacarik
+	url = https://github.com/r-iki/sacarik.git
